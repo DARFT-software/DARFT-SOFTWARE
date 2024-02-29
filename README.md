@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<h1>Seja Bem-Vindo ao Github Oficial da Equipe DARFT.</h1>
+
+<p>Segue os links para nossas redes sociais:</p>
+<a href="sus">Discord</a>
+<a href="">Zap</a>
+
 <!--
 **DARFT-software/DARFT-SOFTWARE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
