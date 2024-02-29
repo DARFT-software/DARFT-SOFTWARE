@@ -1,23 +1,5 @@
-### Hi there 👋
+<h1>SWelcome to DARFT Software's Official Github Account</h1>
 
-
-<h1>Seja Bem-Vindo ao Github Oficial da Equipe DARFT.</h1>
-
-<p>Segue os links para nossas redes sociais:</p>
-<a href="sus">Discord</a>
+<p>Here are our Socials:</p>
+<a href="sus">Email</a>
 <a href="">Zap</a>
-
-<!--
-**DARFT-software/DARFT-SOFTWARE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
