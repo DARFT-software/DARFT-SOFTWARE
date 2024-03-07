@@ -8,8 +8,8 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=DARFT-software&show_icons=true&theme=radical" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=DARFT-software&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=DARFT-software&show_icons=true&theme=radical" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=DARFT-software&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div>
